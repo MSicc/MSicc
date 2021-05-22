@@ -1,7 +1,7 @@
 ### Hello World, I'm Marco 👋
 ----
 
-### Who am i ⁉️
+### Who am I ⁉️
 
 Technology-loving lateral entrant to programming, focusing on .NET/C# for more than a decade now. Proponent of the MVVM programming pattern. Not shying away from occasional trips to other programming languages if necessary. Founder of [MSiccDev](https://github.com/msiccdev). Father of two teenager, husband of a fantastic wife.
 
