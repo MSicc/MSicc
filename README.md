@@ -35,7 +35,7 @@ The trigger to start my programming career was the lack of a fishing knots appli
   * [Windows (Phone/UWP)](https://www.microsoft.com/en-us/search/shop/Apps?q=MSiccDev)
 
 ### Open Source  💡
-  * [WordPRessReaderStd](https://github.com/MSiccDev/WordPressReaderStd) - .NETStandard library to easily fetch WordPress content into .NET applications
+  * [WordPressReaderStd](https://github.com/MSiccDev/WordPressReaderStd) - .NETStandard library to easily fetch WordPress content into .NET applications
   * [CoinPaprika API Client](https://github.com/MSiccDev/CoinpaprikaAPI) - Easily use crypotcurrency market aggregation data from [CoinPaprika](https://coinpaprika.com) in your .NET applications 
   * Some smaller helper libraries and forks changed for my needs, most of them hosted via [MSiccDev](https://github.com/MSiccDev) on Github
   * Most of the samples for my blog can be found [here](https://github.com/MSicc?tab=repositories)
