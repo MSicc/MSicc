@@ -28,10 +28,15 @@ Technology-loving lateral entrant to programming, focusing on .NET/C# for more t
 The trigger to start my programming career was the lack of a fishing knots application for Windows Phone. I entered the space with the help of two online video courses (Windows Phone 7 Apps for absolute Beginners, C#- for absolute Beginners), which were provided by Microsoft. Through further self-study, I gained the knowledge to program the application "Fishing Knots +" for Windows Phone. The knowledge I acquired this way, brought me finally the commission to write the internal mobile app “Friends & You” for my former employer Telefónica Germany.
 
 ### My Apps  📱
-tbd
+  * [Android](https://play.google.com/store/search?q=msiccdev&c=apps)
+  * [iOS](https://apps.apple.com/us/developer/marco-siccardi/id1359113194)
+  * [Windows (Phone/UWP)](https://www.microsoft.com/en-us/search/shop/Apps?q=MSiccDev)
 
 ### Open Source  💡
-tbd
+  * [WordPRessReaderStd](https://github.com/MSiccDev/WordPressReaderStd) - .NETStandard library to easily fetch WordPress content into .NET applications
+  * [CoinPaprika API Client](https://github.com/MSiccDev/CoinpaprikaAPI) - Easily use crypotcurrency market aggregation data from [CoinPaprika](https://coinpaprika.com) in your .NET applications 
+  * Some smaller helper libraries and forks changed for my needs, most of them hosted via [MSiccDev](https://github.com/MSiccDev) on Github
+  * Most of the samples for my blog can be found [here](https://github.com/MSicc?tab=repositories)
 
 ### Currently working on ... 🚀
   * Gitjects (more to share soon)
