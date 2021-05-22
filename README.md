@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hello World, I'm Marco 👋
+----
 
-<!--
-**MSicc/MSicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology-loving lateral entrant to programming, focusing on .NET/C# for more than a decade now. Proponent of the MVVM programming pattern. Not shying away from occasional trips to other programming languages if necessary. Founder of [MSiccDev](https://github.com/msiccdev). Father of two teenager, husband of a fantastic wife.
 
-Here are some ideas to get you started:
+#### Technologies 🛠
+  * Programming Languages: C#/.NET, SQL, basic knowledge of: JavaScript, HTML, CSS, Kotlin, Swift
+  * Frameworks: Xamarin (Forms), WPF, UWP, Windows Forms, basic knowledge of ASP.NET (MVC, Blazor), 
+  * Operating Systems: Windows (Client & Server), MacOS, Linux, Android, iOS/iPadOS, Windows Mobile 5.x - 10 
+  * Database: MSSQL, MySQL, just started with CosmosDB
+  * IDE: Visual Studio, Visual Studio Code, Xcode
+  * Others: Github, Azure, Postman, Crystal Reports, Aspose (Cells & Words), Pair Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages 🚩
+|German        | English         | Italian          |
+|--------------|-----------------|------------------|
+|Speaking (native)|Speaking (Good) |Speaking (Knowledge)|
+|Writing (native)|Writing (Good)  |Writing (Knowledge)|
+
+#### Work 💻
+[dormakaba AG](https://www.dormakaba.com/ch-en): (2021/01 - current). Writing individual APIs that connect customer's systems with dormakaba systems.
+
+[ShareCommService AG](https://sharecomm.ch) (2015/01 - 2020/12): Swiss Shareholder register. Initially worked on a new system to prepare and manage shareholder meetings until the project got cancelled when the company was bought by Sisag AG. After that I was focused on improving the Reporting application (WPF, SQL, Crystal Reports) and  other in-house software solutions as well as supporting the IT administration.
+
+[Telefónica Germany AG ](https://telefonica.de) (2007/07 - 2014/12): Mobile Hardware Support Agent & Application developer. I started my journey at Telefónica as support agent, advancded then together with the whole smartphone area to a expert contact person within and also outside the department. Completed the internal training program "Experts as Trainer" successfully. Development of a cross platform app (Windows Phone, Android, iOS) for employees to record requests from family and friends around their cellular and landline contracts and forward it to a dedicated internal team.
+
+#### Lateral entrance 📝
+The trigger to start my programming career was the lack of a fishing knots application for Windows Phone. I entered the space with the help of two online video courses (Windows Phone 7 Apps for absolute Beginners, C#- for absolute Beginners), which were provided by Microsoft. Through further self-study, I gained the knowledge to program the application "Fishing Knots +" for Windows Phone. The knowledge I acquired this way, brought me finally the commission to write the internal mobile app “Friends & You” for my former employer Telefónica Germany.
+
+#### My Apps 📱
+tbd
+
+#### Open Source 💡
+tbd
+
+#### Connect 🛰
+  * [Twitter](https://twitter.com/msicc)
+  * [LinkedIn](https://www.linkedin.com/in/msicc/)
+  * [Blog](https://msicc.net)
+
+
