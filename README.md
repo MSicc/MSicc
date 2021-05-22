@@ -22,7 +22,7 @@ Technology-loving lateral entrant to programming, focusing on .NET/C# for more t
 
 [ShareCommService AG](https://sharecomm.ch) (2015/01 - 2020/12): Swiss Shareholder register. Initially worked on a new system to prepare and manage shareholder meetings until the project got cancelled when the company was bought by Sisag AG. After that I was focused on improving the Reporting application (WPF, SQL, Crystal Reports) and  other in-house software solutions as well as supporting the IT administration.
 
-[Telefónica Germany AG ](https://telefonica.de) (2007/07 - 2014/12): Mobile Hardware Support Agent & Application developer. I started my journey at Telefónica as support agent, advancded then together with the whole smartphone area to a expert contact person within and also outside the department. Completed the internal training program "Experts as Trainer" successfully. Development of a cross platform app (Windows Phone, Android, iOS) for employees to record requests from family and friends around their cellular and landline contracts and forward it to a dedicated internal team.
+[Telefónica Germany AG ](https://telefonica.de) (2007/07 - 2014/12): Mobile Hardware Support Agent & Application developer. I started my journey at Telefónica as support agent, advancded then together with the whole smartphone area as an expert contact within and also outside the department and finally completed the internal training program "Experts as Trainer" successfully. When the department leader heard from my lateral entrance into programming, he asked me to develop a cross platform app (Windows Phone, Android, iOS) for employees to record requests from family and friends around their cellular and landline contracts and forward it to a dedicated internal team.
 
 ### Lateral entrance  📝
 The trigger to start my programming career was the lack of a fishing knots application for Windows Phone. I entered the space with the help of two online video courses (Windows Phone 7 Apps for absolute Beginners, C#- for absolute Beginners), which were provided by Microsoft. Through further self-study, I gained the knowledge to program the application "Fishing Knots +" for Windows Phone. The knowledge I acquired this way, brought me finally the commission to write the internal mobile app “Friends & You” for my former employer Telefónica Germany.
@@ -32,6 +32,8 @@ tbd
 
 ### Open Source  💡
 tbd
+
+### Currently working on ... 🚀
 
 ### Connect  🛰
   * [Twitter](https://twitter.com/msicc)
