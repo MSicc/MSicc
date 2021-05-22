@@ -34,6 +34,9 @@ tbd
 tbd
 
 ### Currently working on ... 🚀
+  * Gitjects (more to share soon)
+  * TwistReader (more to share soon)
+  * [QRLink](https://qrlink.app) - easily share links to device with input - limited browsers (like cars, tvs, consoles...)
 
 ### Connect  🛰
   * [Twitter](https://twitter.com/msicc)
