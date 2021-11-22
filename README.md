@@ -9,7 +9,7 @@ My Name is Marco Siccardi. I am an technology-loving lateral entrant to programm
   * Programming Languages: C#/.NET, SQL, basic knowledge of: JavaScript, HTML, CSS, Kotlin, Swift
   * Frameworks: Xamarin (Forms), WPF, UWP, Windows Forms, basic knowledge of ASP.NET (MVC, Blazor), 
   * Operating Systems: Windows (Client & Server), MacOS, Linux, Android, iOS/iPadOS, Windows Mobile 5.x - 10 
-  * Database: MSSQL, MySQL, just started with CosmosDB
+  * Database: MSSQL, MySQL, CosmosDB
   * IDE: Visual Studio, Visual Studio Code, Xcode
   * Others: Github, Azure, Postman, Crystal Reports, Aspose (Cells & Words), Pair Programming
 
@@ -20,7 +20,7 @@ My Name is Marco Siccardi. I am an technology-loving lateral entrant to programm
 |Writing (native)|Writing (Good)  |Writing (Knowledge)|
 
 ### Work  💻
-[dormakaba AG](https://www.dormakaba.com/ch-en): (2021/01 - current). Writing individual APIs that connect customer's systems with dormakaba systems.
+[dormakaba AG](https://www.dormakaba.com/ch-en): (2021/01 - current). Writing individual APIs that connect customer's systems with dormakaba products (primarily Exos 9300).
 
 [ShareCommService AG](https://sharecomm.ch) (2015/01 - 2020/12): Swiss Shareholder register. Initially worked on a new system to prepare and manage shareholder meetings until the project got cancelled when the company was bought by Sisag AG. After that I was focused on improving the Reporting application (WPF, SQL, Crystal Reports) and  other in-house software solutions as well as supporting the IT administration.
 
