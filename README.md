@@ -6,8 +6,8 @@
 My Name is Marco Siccardi. I am an technology-loving lateral entrant to programming, focusing on .NET/C# for more than a decade now. Proponent of the MVVM programming pattern. Not shying away from occasional trips to other programming languages if necessary. Founder of [MSiccDev](https://github.com/msiccdev). Father of two teenager, husband of a fantastic wife.
 
 ### Technologies 🛠
-  * Programming Languages: C#/.NET, SQL, basic knowledge of: JavaScript, HTML, CSS, Kotlin, Swift
-  * Frameworks: Xamarin (Forms), WPF, UWP, Windows Forms, basic knowledge of ASP.NET (MVC, Blazor), 
+  * Programming Languages: C#/.NET, SQL, basic knowledge of: JavaScript, HTML, CSS, Kotlin, Swift, Objective-C
+  * Frameworks: Xamarin (Forms), WPF, UWP, Windows Forms, basic knowledge of ASP.NET (MVC, Blazor, Razor), 
   * Operating Systems: Windows (Client & Server), MacOS, Linux, Android, iOS/iPadOS, Windows Mobile 5.x - 10 
   * Database: MSSQL, MySQL, CosmosDB
   * IDE: Visual Studio, Visual Studio Code, Xcode
@@ -20,9 +20,9 @@ My Name is Marco Siccardi. I am an technology-loving lateral entrant to programm
 |Writing (native)|Writing (Good)  |Writing (Knowledge)|
 
 ### Work  💻
-[dormakaba AG](https://www.dormakaba.com/ch-en): (2021/01 - current). Writing individual APIs that connect customer's systems with dormakaba products (primarily Exos 9300).
+[dormakaba AG](https://www.dormakaba.com/ch-en): (2021/01 - current). Writing individual APIs that connect customer's systems with dormakaba products (primarily Kaba exos 9300).
 
-[ShareCommService AG](https://sharecomm.ch) (2015/01 - 2020/12): Swiss Shareholder register. Initially worked on a new system to prepare and manage shareholder meetings until the project got cancelled when the company was bought by Sisag AG. After that I was focused on improving the Reporting application (WPF, SQL, Crystal Reports) and  other in-house software solutions as well as supporting the IT administration.
+[ShareCommService AG](https://sharecomm.ch) (2015/01 - 2020/12): Swiss Shareholder register. Initially worked on a new system to prepare and manage shareholder meetings until the project got cancelled when the company was bought by Sisag AG. After that I was focused on improving the reporting application (WPF, SQL, Crystal Reports) and other in-house software solutions as well as supporting the IT administration.
 
 [Telefónica Germany AG ](https://telefonica.de) (2007/07 - 2014/12): Mobile Hardware Support Agent & Application developer. I started my journey at Telefónica as support agent, advancded then together with the whole smartphone area as an expert contact within and also outside the department and finally completed the internal training program "Experts as Trainer" successfully. When the department leader heard from my lateral entrance into programming, he asked me to develop a cross platform app (Windows Phone, Android, iOS) for employees to record requests from family and friends around their cellular and landline contracts and forward it to a dedicated internal team.
 
@@ -41,7 +41,7 @@ The trigger to start my programming career was the lack of a fishing knots appli
   * Most of the samples for my blog can be found [here](https://github.com/MSicc?tab=repositories)
 
 ### Currently working on ... 🚀
-  * Gitjects (more to share soon)
+  * MSiccDev.net - moving away from WordPress with ASP.NET Core Razor Pages
   * TwistReader (more to share soon)
   * [QRLink](https://qrlink.app) - easily share links to device with input - limited browsers (like cars, tvs, consoles...)
 
