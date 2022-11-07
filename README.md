@@ -48,7 +48,7 @@ The trigger to start my programming career was the lack of a fishing knots appli
 
 ### Connect  🛰
   * [Twitter](https://twitter.com/msicc)
-  * [Mastodon](https://mastodon.social/@msicc)
+  * <a rel="me" href="https://mastodon.social/@msicc">Mastodon</a>
   * [LinkedIn](https://www.linkedin.com/in/msicc/)
   * [Blog](https://msicc.net)
 
