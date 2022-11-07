@@ -7,7 +7,7 @@ My Name is Marco Siccardi. I am an technology-loving lateral entrant to programm
 
 ### Technologies 🛠
   * Programming Languages: C#/.NET, SQL, basic knowledge of: JavaScript, HTML, CSS, Kotlin, Swift, Objective-C
-  * Frameworks: Xamarin (Forms), WPF, UWP, Windows Forms, basic knowledge of ASP.NET (MVC, Blazor, Razor), 
+  * Frameworks: Xamarin (Forms), .NET MAUI, WPF, UWP, Windows Forms, ASP.NET (CORE) (MVC, Blazor, Razor), 
   * Operating Systems: Windows (Client & Server), MacOS, Linux, Android, iOS/iPadOS, Windows Mobile 5.x - 10 
   * Database: MSSQL, MySQL, CosmosDB
   * IDE: Visual Studio, Visual Studio Code, Xcode
@@ -41,12 +41,14 @@ The trigger to start my programming career was the lack of a fishing knots appli
   * Most of the samples for my blog can be found [here](https://github.com/MSicc?tab=repositories)
 
 ### Currently working on ... 🚀
-  * MSiccDev.net - moving away from WordPress with ASP.NET Core Razor Pages
-  * TwistReader (more to share soon)
-  * [QRLink](https://qrlink.app) - easily share links to device with input - limited browsers (like cars, tvs, consoles...)
+  * [MSiccDev website](https://msiccdev.net) - moving away from WordPress with ASP.NET Core Razor Pages
+  * [#CASBAN6](https://msicc.net/casban6-creating-a-serverless-blog-on-azure-with-net-6-new-series/) - creating a serverless blog with .NET 6 on Azure
+  * [TwistReader](https://twistreader.app)
+ 
 
 ### Connect  🛰
   * [Twitter](https://twitter.com/msicc)
+  * [Mastodon](https://mastodon.social/@msicc)
   * [LinkedIn](https://www.linkedin.com/in/msicc/)
   * [Blog](https://msicc.net)
 
