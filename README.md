@@ -3,7 +3,11 @@
 
 ### Who am I ⁉️
 
-My Name is Marco Siccardi. I am an technology-loving lateral entrant to programming, focusing on .NET/C# for more than a decade now. Proponent of the MVVM programming pattern. Not shying away from occasional trips to other programming languages if necessary. Founder of [MSiccDev](https://github.com/msiccdev). Father of two teenager, husband of a fantastic wife.
+My Name is Marco Siccardi. I am an technology-loving lateral entrant to programming, focusing on .NET/C# for more than a decade now. Proponent of the MVVM programming pattern. Not shying away from occasional trips to other programming languages if necessary. 
+
+Publishing software as [MSiccDev Software Development](https://github.com/msiccdev). 
+
+Father of two teenager, husband of a fantastic wife.
 
 ### Technologies 🛠
   * Programming Languages: C#/.NET, SQL, basic knowledge of: JavaScript, HTML, CSS, Kotlin, Swift, Objective-C
@@ -20,7 +24,9 @@ My Name is Marco Siccardi. I am an technology-loving lateral entrant to programm
 |Writing (native)|Writing (Good)  |Writing (Knowledge)|
 
 ### Work  💻
-[dormakaba AG](https://www.dormakaba.com/ch-en): (2021/01 - current). Writing individual APIs that connect customer's systems with dormakaba products (primarily Kaba exos 9300).
+[Galliker Tranport AG](https://www.galliker.com) (2023/03 - open): Xamarin.Forms/.NET MAUI developer focusing on iOS.
+
+[dormakaba AG](https://www.dormakaba.com/ch-en) (2021/01 - 2023/02): Writing individual APIs that connect customer's systems with dormakaba products (primarily Kaba exos 9300).
 
 [ShareCommService AG](https://sharecomm.ch) (2015/01 - 2020/12): Swiss Shareholder register. Initially worked on a new system to prepare and manage shareholder meetings until the project got cancelled when the company was bought by Sisag AG. After that I was focused on improving the reporting application (WPF, SQL, Crystal Reports) and other in-house software solutions as well as supporting the IT administration.
 
@@ -43,12 +49,11 @@ The trigger to start my programming career was the lack of a fishing knots appli
 ### Currently working on ... 🚀
   * [MSiccDev website](https://msiccdev.net) - moving away from WordPress with ASP.NET Core Razor Pages
   * [#CASBAN6](https://msicc.net/casban6-creating-a-serverless-blog-on-azure-with-net-6-new-series/) - creating a serverless blog with .NET 6 on Azure
-  * [TwistReader](https://twistreader.app)
+  * more to announce soon
  
 
 ### Connect  🛰
-  * [Twitter](https://twitter.com/msicc)
-  * <a rel="me" href="https://mastodon.social/@msicc">Mastodon</a>
+  * [Mastodon](https://mastodon.social/@msicc)
   * [LinkedIn](https://www.linkedin.com/in/msicc/)
   * [Blog](https://msicc.net)
 
