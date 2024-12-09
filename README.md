@@ -5,15 +5,16 @@
 
 My Name is Marco Siccardi. I am an technology-loving lateral entrant to programming, focusing on .NET/C# for more than a decade now. Proponent of the MVVM programming pattern. I started to learn the SWIFT programming language some time ago and plan to actively use it in future for native development as well. Not shying away from occasional trips to other programming languages if necessary.
 
-Publishing software as [MSiccDev Software Development](https://github.com/msiccdev). 
+Publishing software under the label of [MSiccDev Software Development](https://github.com/msiccdev). 
 
 Father of two young adults, husband of a fantastic wife.
 
 ### Technologies 🛠
   * Programming Languages: C#/.NET, SQL, basic knowledge of: JavaScript, HTML, CSS, Kotlin, Swift, Objective-C
+  * Learnning Swift & SwiftUI
   * Frameworks: Xamarin (Forms), .NET MAUI, WPF, UWP, Windows Forms, ASP.NET (CORE) (MVC, Blazor, Razor), 
   * Operating Systems: Windows (Client & Server), MacOS, Linux, Android, iOS/iPadOS, Windows Mobile 5.x - 10 
-  * Database: MSSQL, MySQL, CosmosDB
+  * Database: MSSQL, MySQL, CosmosDB, SqLite
   * IDE: Visual Studio, Visual Studio Code, Xcode, Jetbrains Rider
   * Others: Github, Azure, Postman, Crystal Reports, Aspose (Cells & Words), Pair Programming, Github Actions, TeamCity, Unit-Testing 
 
@@ -39,20 +40,21 @@ The trigger to start my programming career was the lack of a fishing knots appli
   * [iOS](https://apps.apple.com/us/developer/marco-siccardi/id1359113194)
 
 ### Open Source  💡
-  * [WordPressReaderStd](https://github.com/MSiccDev/WordPressReaderStd) - .NETStandard library to easily fetch WordPress content into .NET applications
-  * [CoinPaprika API Client](https://github.com/MSiccDev/CoinpaprikaAPI) - Easily use crypotcurrency market aggregation data from [CoinPaprika](https://coinpaprika.com) in your .NET applications 
+  * [WordPressReaderStd](https://github.com/MSiccDev/WordPressReaderStd) - .NETStandard library to easily fetch WordPress content into .NET applications [Archived December 2024]
+  * [CoinPaprika API Client](https://github.com/MSiccDev/CoinpaprikaAPI) - Easily use crypotcurrency market aggregation data from [CoinPaprika](https://coinpaprika.com) in your .NET applications [Archived November 2024]
   * Some smaller helper libraries and forks changed for my needs, most of them hosted via [MSiccDev](https://github.com/MSiccDev) on Github
   * Most of the samples for my blog can be found [here](https://github.com/MSicc?tab=repositories)
 
 ### Currently working on ... 🚀
-  * TwistReader, my interpretation of a Feed-Reader, coming soon to Testflight for iOS, iPadOS and macOS
-  * [MSiccDev website](https://msiccdev.net) - moving away from WordPress with ASP.NET Core Razor Pages
+  * [TwistReader](https://msiccdev.net/TwistReader/): my interpretation of a Feed-Reader, available on Testflight for iOS (iPadOS and macOS will follow later)
+  * [TimeTraverseHub](https://msiccdev.net): Desktop app (macOS, Windows will eventually follow) to browser your Instagram backup locally and easily reshare it to the Fediverse (Mastodon, Pixelfed). Bluesky support on my list.
+  * [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
   
  
 
 ### Connect  🛰
   * [Mastodon](https://mastodon.social/@msicc)
-  * [X-Twitter](https://x.com/@Msicc)
+  * [Bluesky](https://bsky.app/profile/msicc.net)
   * [LinkedIn](https://www.linkedin.com/in/msicc/)
   * [Blog](https://msicc.net)
 
