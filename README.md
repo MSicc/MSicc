@@ -26,7 +26,7 @@ MSSQL, MySQL, CosmosDB, SQLite
 Visual Studio, Visual Studio Code, Xcode, JetBrains Rider  
 
 **Other Tools:**  
-GitHub, Azure, Postman, Crystal Reports, Aspose (Cells & Words), GitHub Actions, TeamCity, Unit Testing  
+GitHub, Azure, Postman, Crystal Reports, Aspose (Cells & Words), GitHub Actions, TeamCity, Unit Testing, Jekyll, DevExpress
 
 
 ## 🌐 Languages  
@@ -84,7 +84,7 @@ My programming journey began with a need for a **fishing knots app** for Windows
 
 ## 🌐 Connect  
 
-- **Mastodon:** [@msicc](https://mastodon.social/@msicc)  
+- **Mastodon:** [@msicc](https://techhub.social/@msicc)  
 - **Bluesky:** [msicc.net](https://bsky.app/profile/msicc.net)  
 - **LinkedIn:** [Marco Siccardi](https://www.linkedin.com/in/msicc/)  
 - **Blog:** [msicc.net](https://msicc.net)
