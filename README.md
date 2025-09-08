@@ -22,6 +22,8 @@ I’m passionate about the **MVVM** design pattern and currently focusing on:
 
 - 🚀 **.NET MAUI** for cross-platform apps (professional work)  
 - 🍎 **Swift & SwiftUI** for native iOS/iPadOS/macOS (personal learning & side projects)  
+- ⚙️ **C# backend development** with ASP.NET Core Web APIs
+
 
 I publish software under the name **[MSiccDev Software Development](https://github.com/msiccdev)**.  
 Beyond code, I’m a husband and proud father of two amazing young adults.  
@@ -35,7 +37,8 @@ Beyond code, I’m a husband and proud father of two amazing young adults.
 
 **Frameworks & Libraries**  
 - .NET MAUI, Xamarin.Forms, ASP.NET Core (Web API/MVC/Razor), WPF, UWP  
-- SwiftUI, **SwiftData** (preferred), Core Data (familiarity)  
+- Backend focus: **ASP.NET Core Web APIs**, Entity Framework Core, SignalR  
+- SwiftUI, **SwiftData** (preferred), Core Data (familiarity)
 
 **Auth & Identity**  
 - Microsoft **Entra ID** (Azure AD), **OAuth 2.0 / OpenID Connect** (client & API flows)  
@@ -70,11 +73,13 @@ Beyond code, I’m a husband and proud father of two amazing young adults.
 
 **[Galliker Transport AG](https://www.galliker.com)** (2023–Present)  
 - Building apps with **.NET MAUI** and **iOS**  
-- ASP.NET Core Web APIs, CI/CD, Containers  
+- Developing and maintaining **ASP.NET Core Web APIs**  
+- CI/CD, Containers  
 - Member of the internal **software architecture** and **AI transformation** guilds  
 
 **[dormakaba AG](https://www.dormakaba.com/ch-en)** (2021–2023)  
 - API development & system integration (focus on **Kaba exos 9300**)  
+- Designed and extended **backend services** with C#/.NET
 
 **[ShareCommService AG](https://sharecomm.ch)** (2015–2020)  
 - Shareholder meeting management software (**WPF, SQL, Crystal Reports**)  
@@ -115,7 +120,7 @@ That small app sparked a career in software development, leading to professional
 ## 🔬 Research & Experiments  
 
 - Exploring local LLMs such as **Mistral, Llama, Qwen, and EuroLLM**  
-- Building an AI-based **translation service prototype** for logistics at Galliker  
+- Building an AI-based **translation service prototype** tailored to internal needs at Galliker Transport AG  
 - Advanced CI/CD with **GitHub Actions** for iOS/macOS apps (Apple certificates, notarization, provisioning profiles) for my private projects  
 
 ---
@@ -123,8 +128,19 @@ That small app sparked a career in software development, leading to professional
 ## 🏢 Professional Highlights  
 
 - Member of the **Software Architecture Guild** @ Galliker Transport AG  
-- Member of the **AI Transformation Guild** @ Galliker Transport AG  
+- Member of the **AI Transformation Guild** @ Galliker Transport AG
+- Part of the **organization committee** planning the internal **DevDay** at Galliker Transport AG
 - Conducted internal **presentation on Entra ID integration** in on-prem .NET APIs and mobile apps, maintaining the in-house libraries  
+
+---
+
+## 📚 Learning Journey  
+
+- 📱 **[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)** — started but currently paused due to limited time  
+- 🎓 **[iOS Lead Essentials](https://iosacademy.essentialdeveloper.com/)** — currently at **White Belt Level 3** (system design, persistence, UI best practices)  
+- 🌍 **Italian B1 exam prep** — Università Roma Tre, Oct 2025  
+- 🌐 **Upcoming:** [JavaScript course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) — preparing for future React-based frontend projects at Galliker (1 day/week)
+- 📖 **Currently reading:** *[Building LLM powered Application by Valentina Alto](https://www.packtpub.com/en-ch/product/building-llm-powered-applications-9781835462638)*
 
 ---
 
@@ -132,7 +148,6 @@ That small app sparked a career in software development, leading to professional
 
 - 🏃 Passionate runner (~40 km/week), developing tools to support training and motivation (for personal use, may evolve into a sharable product later)  
 - 👨‍👩‍👧‍👦 Family-inspired projects, especially **SmartMealWeek**, which was designed with our own family in mind  
-- 🌍 Currently preparing for the **Italian B1 certification exam** at Università Roma Tre (Oct 2025)  
 
 ---
 
