@@ -1,90 +1,150 @@
 ## 🌍 Hello World! 👋
 
-## About Me ⁉️  
+[![GitHub followers](https://img.shields.io/github/followers/MSicc?label=Followers&style=flat-square)](https://github.com/MSicc?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/MSicc?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)](https://github.com/MSicc?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=MSicc&color=blue&style=flat-square)](https://github.com/MSicc)
+[![Blog](https://img.shields.io/badge/Blog-msicc.net-blue?style=flat-square&logo=jekyll)](https://msicc.net)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@msicc-6364FF?style=flat-square&logo=mastodon)](https://techhub.social/@msicc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Siccardi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/msicc/)
 
-Hi, I’m **Marco Siccardi**, a technology enthusiast and self-taught programmer specializing in .NET/C# for over a decade. I’m passionate about the **MVVM** design pattern and have recently begun exploring **Swift** for native development. I enjoy diving into other programming languages when needed and continuously expanding my skills.
+---
 
-I develop and publish software under the name **[MSiccDev Software Development](https://github.com/msiccdev)**. Beyond coding, I’m a proud father of two young adults and a husband to an amazing wife.  
+### 👨‍💻 Marco Siccardi  
+.NET & Swift Developer • Open Source Enthusiast • Blogger at [msicc.net](https://msicc.net)
 
+---
 
-## 🛠️ Technologies  
+## 🙋 About Me  
 
-**Programming Languages:**  
-- Proficient: C#/.NET, SQL  
-- Basic knowledge: JavaScript, HTML, CSS, Kotlin, Swift, Objective-C  
+Hi, I’m **Marco Siccardi**, a self-taught developer with more than a decade of experience in **.NET/C#**.  
+I’m passionate about the **MVVM** design pattern and currently focusing on:  
 
-**Frameworks:**  
-Xamarin (Forms), .NET MAUI, WPF, UWP, Windows Forms, ASP.NET Core (MVC, Blazor, Razor)  
+- 🚀 **.NET MAUI** for cross-platform apps (professional work)  
+- 🍎 **Swift & SwiftUI** for native iOS/iPadOS/macOS (personal learning & side projects)  
 
-**Operating Systems:**  
-Windows (Client & Server), macOS, Linux, Android, iOS/iPadOS, Windows Mobile (5.x–10)  
+I publish software under the name **[MSiccDev Software Development](https://github.com/msiccdev)**.  
+Beyond code, I’m a husband and proud father of two amazing young adults.  
 
-**Databases:**  
-MSSQL, MySQL, CosmosDB, SQLite  
+---
 
-**IDEs:**  
-Visual Studio, Visual Studio Code, Xcode, JetBrains Rider  
+## 🛠️ Tech Stack  
 
-**Other Tools:**  
-GitHub, Azure, Postman, Crystal Reports, Aspose (Cells & Words), GitHub Actions, TeamCity, Unit Testing, Jekyll, DevExpress
+**Programming Languages**  
+- C#, Swift, SQL, JavaScript, HTML/CSS, Kotlin, Objective-C, Bash/zsh, PowerShell  
 
+**Frameworks & Libraries**  
+- .NET MAUI, Xamarin.Forms, ASP.NET Core (Web API/MVC/Razor), WPF, UWP  
+- SwiftUI, **SwiftData** (preferred), Core Data (familiarity)  
+
+**Auth & Identity**  
+- Microsoft **Entra ID** (Azure AD), **OAuth 2.0 / OpenID Connect** (client & API flows)  
+
+**Databases & Persistence**  
+- MSSQL, MySQL, SQLite, Cosmos DB, SwiftData  
+
+**Testing & Quality**  
+- **TDD**, XCTest (iOS), xUnit, NUnit  
+
+**DevOps & Release**  
+- **GitHub Actions**, **TeamCity**, Docker, Kubernetes (very basic knowledge)
+- Apple codesigning & notarization (codesign, notarytool, iTMSTransporter), TestFlight  
+
+**Tooling & Docs**  
+- Visual Studio, Rider, VS Code, Xcode, Postman, Jekyll  
+- NuGet, Swift Package Manager (SPM), PlantUML (C4 model)  
+
+---
 
 ## 🌐 Languages  
 
-| **Language**   | **Speaking**      | **Writing**      |  
-|-----------------|-------------------|------------------|  
-| **German**      | Native            | Native           |  
-| **English**     | Proficient        | Proficient       |  
-| **Italian**     | Basic Knowledge   | Basic Knowledge  |  
+| Language    | Speaking   | Writing     |
+|-------------|------------|-------------|
+| **German**  | Native     | Native      |
+| **English** | Proficient | Proficient  |
+| **Italian** | Basic *(B1 prep)* | Basic *(B1 prep)* |  
 
+---
 
-## 💻 Work Experience  
+## 💼 Work Experience  
 
-**[Galliker Transport AG](https://www.galliker.com)** (2023/03 – Present):  
-- Software Development Professional focusing on **.NET MAUI** and **iOS** development.  
-- Occasionally work with **ASP.NET Core Web APIs**.  
-- Passionate about continuous learning in areas like Unit Testing, CI/CD, and Containers.
-- Member of the internal software architecture guild 
+**[Galliker Transport AG](https://www.galliker.com)** (2023–Present)  
+- Building apps with **.NET MAUI** and **iOS**  
+- ASP.NET Core Web APIs, CI/CD, Containers  
+- Member of the internal **software architecture** and **AI transformation** guilds  
 
-**[dormakaba AG](https://www.dormakaba.com/ch-en)** (2021/01 – 2023/02):  
-- Developed APIs for connecting customer systems with dormakaba products.  
-- Specialized in integration with **Kaba exos 9300**.  
+**[dormakaba AG](https://www.dormakaba.com/ch-en)** (2021–2023)  
+- API development & system integration (focus on **Kaba exos 9300**)  
 
-**[ShareCommService AG](https://sharecomm.ch)** (2015/01 – 2020/12):  
-- Worked on shareholder meeting management software (WPF, SQL, Crystal Reports).  
-- Improved reporting applications and in-house solutions.  
+**[ShareCommService AG](https://sharecomm.ch)** (2015–2020)  
+- Shareholder meeting management software (**WPF, SQL, Crystal Reports**)  
 
-**[Telefónica Germany AG](https://telefonica.de)** (2007/07 – 2014/12):  
-- Began as a support agent, advancing to a mobile hardware expert.  
-- Developed a cross-platform app (Windows Phone, Android, iOS) for internal use.  
+**[Telefónica Germany AG](https://telefonica.de)** (2007–2014)  
+- From support agent → mobile hardware expert → internal app developer  
+- Built cross-platform app (**Windows Phone, Android, iOS**)  
 
+---
 
 ## 📝 My Journey into Programming  
 
-My programming journey began with a need for a **fishing knots app** for Windows Phone. With the help of online courses like *"Windows Phone 7 Apps for Absolute Beginners"* and *"C# for Absolute Beginners,"* I created **Fishing Knots +**. This self-taught experience led to developing the internal mobile app **Friends & You** at Telefónica Germany and after that, to my first position as a full time software developer.
+It all started with a personal need: a **fishing knots app** for Windows Phone.  
+Armed with online courses like *“C# for Absolute Beginners”*, I created **Fishing Knots+**.  
 
+That small app sparked a career in software development, leading to professional roles and open-source contributions.  
+
+---
 
 ## 📱 Portfolio  
 
-- [msiccdev.net](https://msiccdev.net/#portfolio)
+- 📖 [msiccdev.net Portfolio](https://msiccdev.net/#portfolio)  
+- 🎣 [Fishing Knots+](https://msiccdev.net/#portfolio) — my very first app (formerly on Windows Phone [RIP]) and the starting point of my coding journey   
+- 📱 [TwistReader](https://msiccdev.net/TwistReader/) — feed reader (SwiftUI/TDD rebuild in progress)  
+- 🖥️ [TimeTraverseHub](https://msiccdev.net/TimeTraverseHub) — explore Instagram archives & repost to Fediverse  
+- 🥗 **SmartMealWeek** — AI-powered family meal planner with structured JSON validation and macronutrient tracking (in progress)  
+
+---
 
 ## 💡 Open Source Projects  
 
-- [WordPressReaderStd](https://github.com/MSiccDev/WordPressReaderStd): A .NETStandard library for fetching WordPress content. [Archived December 2024]  
-- [CoinPaprika API Client](https://github.com/MSiccDev/CoinpaprikaAPI): Cryptocurrency market data integration for .NET. [Archived November 2024]  
-- Smaller helper libraries and forks hosted at [MSiccDev GitHub](https://github.com/MSiccDev).  
+- [WordPressReaderStd](https://github.com/MSiccDev/WordPressReaderStd) — .NETStandard library for WordPress (archived Dec 2024)  
+- [CoinPaprika API Client](https://github.com/MSiccDev/CoinpaprikaAPI) — crypto market data for .NET (archived Nov 2024)  
+- Many smaller helper libs & forks → [MSiccDev GitHub](https://github.com/MSiccDev)  
 
+---
 
-## 🚀 Current Projects  
+## 🔬 Research & Experiments  
 
-- [TwistReader](https://msiccdev.net/TwistReader/): A feed reader available on TestFlight for iOS, with iPadOS and macOS support in progress.  
-- [TimeTraverseHub](https://msiccdev.net/TimeTraverseHub): A desktop app for browsing Instagram backups and sharing to Mastodon, Pixelfed, and eventually Bluesky.  
-- Completing the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) challenge.  
+- Exploring local LLMs such as **Mistral, Llama, Qwen, and EuroLLM**  
+- Building an AI-based **translation service prototype** for logistics at Galliker  
+- Advanced CI/CD with **GitHub Actions** for iOS/macOS apps (Apple certificates, notarization, provisioning profiles) for my private projects  
 
+---
+
+## 🏢 Professional Highlights  
+
+- Member of the **Software Architecture Guild** @ Galliker Transport AG  
+- Member of the **AI Transformation Guild** @ Galliker Transport AG  
+- Conducted internal **presentation on Entra ID integration** in on-prem .NET APIs and mobile apps, maintaining the in-house libraries  
+
+---
+
+## 🌱 Personal Notes  
+
+- 🏃 Passionate runner (~40 km/week), developing tools to support training and motivation (for personal use, may evolve into a sharable product later)  
+- 👨‍👩‍👧‍👦 Family-inspired projects, especially **SmartMealWeek**, which was designed with our own family in mind  
+- 🌍 Currently preparing for the **Italian B1 certification exam** at Università Roma Tre (Oct 2025)  
+
+---
+
+## 📊 GitHub Stats  
+
+![MSicc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSicc&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSicc&layout=compact&theme=transparent)  
+
+---
 
 ## 🌐 Connect  
 
-- **Mastodon:** [@msicc](https://techhub.social/@msicc)  
-- **Bluesky:** [msicc.net](https://bsky.app/profile/msicc.net)  
-- **LinkedIn:** [Marco Siccardi](https://www.linkedin.com/in/msicc/)  
-- **Blog:** [msicc.net](https://msicc.net)
+- 📝 **Blog:** [msicc.net](https://msicc.net)  
+- 🐘 **Mastodon:** [@msicc@techhub.social](https://techhub.social/@msicc)  
+- 🌌 **Bluesky:** [msicc.net](https://bsky.app/profile/msicc.net)  
+- 💼 **LinkedIn:** [Marco Siccardi](https://www.linkedin.com/in/msicc/)  
