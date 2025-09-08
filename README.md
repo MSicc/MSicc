@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=MSicc&color=blue&style=flat-square)](https://github.com/MSicc)
 [![Blog](https://img.shields.io/badge/Blog-msicc.net-blue?style=flat-square&logo=jekyll)](https://msicc.net)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@msicc-6364FF?style=flat-square&logo=mastodon)](https://techhub.social/@msicc)
-[![Bluesky](https://img.shields.io/badge/Bluesky-%40YourUsername-blue)](https://bsky.app/profile/msicc.net)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40msicc.net-blue)](https://bsky.app/profile/msicc.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Siccardi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/msicc/)
 
 ---
