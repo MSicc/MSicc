@@ -102,7 +102,7 @@ That small app sparked a career in software development, leading to professional
 ## 📱 Portfolio  
 
 - 📖 [msiccdev.net Portfolio](https://msiccdev.net/#portfolio)  
-- 🎣 [Fishing Knots+](https://msiccdev.net/#portfolio) — my very first app (formerly on Windows Phone [RIP]) and the starting point of my coding journey   
+- 🎣 [Fishing Knots+](https://msiccdev.net/FishingKnotsPlus/) — my very first app (formerly on Windows Phone [RIP]) and the starting point of my coding journey   
 - 📱 [TwistReader](https://msiccdev.net/TwistReader/) — feed reader (SwiftUI/TDD rebuild in progress)  
 - 🖥️ [TimeTraverseHub](https://msiccdev.net/TimeTraverseHub) — explore Instagram archives & repost to Fediverse  
 - 🥗 **SmartMealWeek** — AI-powered family meal planner with structured JSON validation and macronutrient tracking (in progress)  
