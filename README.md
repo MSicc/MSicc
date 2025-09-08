@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 Marco Siccardi  
-.NET & Swift Developer • Open Source Enthusiast • Blogger at [msicc.net](https://msicc.net)
+.NET & Swift Developer • Blogger at [msicc.net](https://msicc.net)
 
 ---
 
