@@ -11,156 +11,214 @@
 ---
 
 ### 👨‍💻 Marco Siccardi  
-.NET & Swift Developer • Blogger at [msicc.net](https://msicc.net)
+**Software Engineer • .NET & Swift Developer • Architecture & AI Enthusiast**
+
+Blogger at **[msicc.net](https://msicc.net)**
 
 ---
 
-## 🙋 About Me  
+# 🙋 About Me
 
-Hi, I’m **Marco Siccardi**, a self-taught developer with more than a decade of experience in **.NET/C#**.  
-I’m passionate about the **MVVM** design pattern and currently focusing on:  
+Hi, I’m **Marco Siccardi**, a software engineer with more than a decade of experience in the **.NET ecosystem**.
 
-- 🚀 **.NET MAUI** for cross-platform apps (professional work)  
-- 🍎 **Swift & SwiftUI** for native iOS/iPadOS/macOS (personal learning & side projects)  
-- ⚙️ **C# backend development** with ASP.NET Core Web APIs
+I focus on building **maintainable software systems**, combining clean architecture, testing, and modern tooling.
 
+Professionally I work on **cross‑platform applications and backend APIs with .NET**, while my personal projects explore the **Apple ecosystem with Swift and SwiftUI**.
 
-I publish software under the name **[MSiccDev Software Development](https://github.com/msiccdev)**.  
-Beyond code, I’m a husband and proud father of two amazing young adults.  
+Recently, I’ve been increasingly exploring **AI‑powered applications** and how **Large Language Models (LLMs)** can be integrated into real‑world software products.
 
----
-
-## 🛠️ Tech Stack  
-
-**Programming Languages**  
-- C#, Swift, SQL, JavaScript, HTML/CSS, Kotlin, Objective-C, Bash/zsh, PowerShell  
-
-**Frameworks & Libraries**  
-- .NET MAUI, Xamarin.Forms, ASP.NET Core (Web API/MVC/Razor), WPF, UWP  
-- Backend focus: **ASP.NET Core Web APIs**, Entity Framework Core, SignalR  
-- SwiftUI, **SwiftData** (preferred), Core Data (familiarity)
-
-**Auth & Identity**  
-- Microsoft **Entra ID** (Azure AD), **OAuth 2.0 / OpenID Connect** (client & API flows)  
-
-**Databases & Persistence**  
-- MSSQL, MySQL, SQLite, Cosmos DB, SwiftData  
-
-**Testing & Quality**  
-- **TDD**, XCTest (iOS), xUnit, NUnit  
-
-**DevOps & Release**  
-- **GitHub Actions**, **TeamCity**, Docker, Kubernetes (very basic knowledge)
-- Apple codesigning & notarization (codesign, notarytool, iTMSTransporter), TestFlight  
-
-**Tooling & Docs**  
-- Visual Studio, Rider, VS Code, Xcode, Postman, Jekyll  
-- NuGet, Swift Package Manager (SPM), PlantUML (C4 model)  
+Outside of coding I’m a **runner, husband, and father**, and many of my projects start from real problems in everyday life.
 
 ---
 
-## 🌐 Languages  
+# 🚀 What I Build
 
-| Language    | Speaking   | Writing     |
-|-------------|------------|-------------|
-| **German**  | Native     | Native      |
-| **English** | Proficient | Proficient  |
-| **Italian** | Basic *(B1 prep)* | Basic *(B1 prep)* |  
+### 📱 TwistReader
+Feed reader currently being rewritten with **.NET 10** and modern architecture.
 
----
+### 🥗 SmartMealWeek
+AI‑powered family meal planner with structured validation and macronutrient tracking.
 
-## 💼 Work Experience  
+### 🧠 AI Context Kit
+Open‑source **AGENTS‑first, skills‑first framework** for structured, context‑aware AI collaboration across different **LLM providers, projects, and development phases**.
 
-**[Galliker Transport AG](https://www.galliker.com)** (2023–Present)  
-- Building apps with **.NET MAUI** and **iOS**  
-- Developing and maintaining **ASP.NET Core Web APIs**  
-- CI/CD, Containers  
-- Member of the internal **software architecture** and **AI transformation** guilds  
+Focus areas include:
+- layered context management using personal context + project `AGENTS.md`
+- reusable skills workflows for creating and validating context artifacts
+- provider‑agnostic collaboration patterns across hosted and local LLM environments
+- canonical templates and specs for consistent AI workspace setup
 
-**[dormakaba AG](https://www.dormakaba.com/ch-en)** (2021–2023)  
-- API development & system integration (focus on **Kaba exos 9300**)  
-- Designed and extended **backend services** with C#/.NET
+The project explores practical patterns for making **AI collaboration more structured, reusable, and auditable** in real‑world software development.
 
-**[ShareCommService AG](https://sharecomm.ch)** (2015–2020)  
-- Shareholder meeting management software (**WPF, SQL, Crystal Reports**)  
+[GitHub repo](https://github.com/MSiccDev/ai-context-kit)
 
-**[Telefónica Germany AG](https://telefonica.de)** (2007–2014)  
-- From support agent → mobile hardware expert → internal app developer  
-- Built cross-platform app (**Windows Phone, Android, iOS**)  
+### 🖥️ TimeTraverseHub
+Tool to explore **Instagram archives** and repost historical content to the **Fediverse**.
 
----
+### 🎣 Fishing Knots+
+My very first app (originally for Windows Phone) — the project that started my programming journey.
 
-## 📝 My Journey into Programming  
-
-It all started with a personal need: a **fishing knots app** for Windows Phone.  
-Armed with online courses like *“C# for Absolute Beginners”*, I created **Fishing Knots+**.  
-
-That small app sparked a career in software development, leading to professional roles and open-source contributions.  
+📖 Full portfolio →  
+https://msiccdev.net/#portfolio
 
 ---
 
-## 📱 Portfolio  
+# 🎯 Focus Areas
 
-- 📖 [msiccdev.net Portfolio](https://msiccdev.net/#portfolio)  
-- 🎣 [Fishing Knots+](https://msiccdev.net/FishingKnotsPlus/) — my very first app (formerly on Windows Phone [RIP]) and the starting point of my coding journey   
-- 📱 [TwistReader](https://msiccdev.net/TwistReader/) — feed reader (SwiftUI/TDD rebuild in progress)  
-- 🖥️ [TimeTraverseHub](https://msiccdev.net/TimeTraverseHub) — explore Instagram archives & repost to Fediverse  
-- 🥗 **SmartMealWeek** — AI-powered family meal planner with structured JSON validation and macronutrient tracking (in progress)  
+## Software Architecture
 
----
+- Clean Architecture
+- modular Swift codebases
+- maintainable cross‑platform applications
+- CI/CD automation
+- developer tooling & workflow optimization
+- architecture documentation using **arc42** and C4-style diagrams
+- Co‑developing an internal **software architecture framework** used to guide system design and technology decisions
+- Acting as **Domain Architect for cross‑cutting architectural concerns**, facilitating architectural discussions and cross‑team decision making
 
-## 💡 Open Source Projects  
+## AI & LLM Exploration
 
-- [WordPressReaderStd](https://github.com/MSiccDev/WordPressReaderStd) — .NETStandard library for WordPress (archived Dec 2024)  
-- [CoinPaprika API Client](https://github.com/MSiccDev/CoinpaprikaAPI) — crypto market data for .NET (archived Nov 2024)  
-- Many smaller helper libs & forks → [MSiccDev GitHub](https://github.com/MSiccDev)  
+I’m actively exploring how **Large Language Models** can enhance real software systems.
 
----
+Current experiments include:
 
-## 🔬 Research & Experiments  
+- LLM‑driven summarization pipelines
+- AI‑assisted translation services
+- structured prompt validation
+- developing **AI Context Kit**, an open‑source framework for structured, context‑aware AI collaboration using AGENTS, skills, templates, and specs
+- local models such as **Mistral, Llama, and Qwen**
 
-- Exploring local LLMs such as **Mistral, Llama, Qwen, and EuroLLM**  
-- Building an AI-based **translation service prototype** tailored to internal needs at Galliker Transport AG  
-- Advanced CI/CD with **GitHub Actions** for iOS/macOS apps (Apple certificates, notarization, provisioning profiles) for my private projects  
-
----
-
-## 🏢 Professional Highlights  
-
-- Member of the **Software Architecture Guild** @ Galliker Transport AG  
-- Member of the **AI Transformation Guild** @ Galliker Transport AG
-- Part of the **organization committee** planning the internal **DevDay** at Galliker Transport AG
-- Conducted internal **presentation on Entra ID integration** in on-prem .NET APIs and mobile apps, maintaining the in-house libraries  
+Several of these ideas are currently being prototyped in personal and internal projects.
 
 ---
 
-## 📚 Learning Journey  
+# 🛠️ Tech Stack
 
-- 📱 **[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)** — started but currently paused due to limited time  
-- 🎓 **[iOS Lead Essentials](https://iosacademy.essentialdeveloper.com/)** — currently at **White Belt Level 3** (system design, persistence, UI best practices)  
-- 🌍 **Italian B1 exam prep** — Università Roma Tre, Oct 2025  
-- 🌐 **Upcoming:** [JavaScript course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) — preparing for future React-based frontend projects at Galliker (1 day/week)
-- 📖 **Currently reading:** *[Building LLM powered Application by Valentina Alto](https://www.packtpub.com/en-ch/product/building-llm-powered-applications-9781835462638)*
+### Core Technologies
+- .NET / C#
+- Swift & SwiftUI
+- ASP.NET Core Web APIs
+
+### Architecture & Patterns
+- MVVM
+- Clean Architecture
+- Test‑Driven Development (TDD)
+
+### Platforms
+- iOS / iPadOS / macOS
+- Cross‑platform (.NET MAUI)
+
+### Infrastructure & DevOps
+- GitHub Actions
+- Docker
+- Apple code signing & notarization
+
+### Databases & Persistence
+- MSSQL
+- MySQL
+- SQLite
+- SwiftData
+
+### Tooling
+- VS Code
+- Xcode
+- Visual Studio
+- Rider
+- Postman
 
 ---
 
-## 🌱 Personal Notes  
+# 💼 Professional Experience
 
-- 🏃 Passionate runner (~40 km/week), developing tools to support training and motivation (for personal use, may evolve into a sharable product later)  
-- 👨‍👩‍👧‍👦 Family-inspired projects, especially **SmartMealWeek**, which was designed with our own family in mind  
+### Galliker Transport AG (2023–Present)
+
+- Building business applications with **.NET MAUI** and **iOS**
+- Developing **ASP.NET Core Web APIs**
+- CI/CD and container‑based deployments
+- Member of the internal **Software Architecture Guild**, acting as **Domain Architect for horizontal concerns** (cross‑team architecture alignment, design discussions, and technology guidance)
+- Member of the **AI Transformation Guild**
+- Part of the organizing committee for the internal **DevDay**
+
+### dormakaba AG (2021–2023)
+
+- Backend and integration development for **Kaba exos 9300**
+- Built and extended services using **C#/.NET**
+
+### ShareCommService AG (2015–2020)
+
+- Development of shareholder meeting software  
+- Technologies: **WPF, SQL, Crystal Reports**
+
+### Telefónica Germany AG (2007–2014)
+
+Career progression from **support agent → hardware expert → internal developer**
+
+Built internal applications for:
+
+- Windows Phone
+- Android
+- iOS
 
 ---
 
-## 📊 GitHub Stats  
+# 📚 Learning Journey
+
+### iOS Lead Essentials (Essential Developer Academy)
+Completed — focus on:
+
+- software architecture
+- testing strategies
+- evolving Swift codebases
+
+### Current learning topics
+
+- AI / LLM integration in software systems
+- Swift & SwiftUI ecosystem
+
+### Courses & Resources
+
+- [Essential Developer Academy](https://essentialdeveloper.com/academy)
+- [Certified iSAQB Certified Professional for Software Architecture (CPSA‑A) - Foundation Level](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/)
+
+---
+
+# 🌐 Languages
+
+| Language | Speaking | Writing |
+|--------|--------|--------|
+| German | Native | Native |
+| English | Proficient | Proficient |
+| Italian | Intermediate (B1 certified) | Intermediate (B1 certified) |
+
+---
+
+# 💬 Why I Build Software
+
+Most of my projects start with **real‑life problems** — tools I want to use myself.
+
+Examples include:
+
+- tracking running performance
+- family meal planning
+- content aggregation
+- managing personal archives
+
+I enjoy turning small personal ideas into **well‑engineered software projects**.
+
+---
+
+# 📊 GitHub Stats
 
 ![MSicc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSicc&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSicc&layout=compact&theme=transparent)  
+![MSiccDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MSiccDev&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSicc&layout=compact&theme=transparent)
 
 ---
 
-## 🌐 Connect  
+# 🌐 Connect
 
-- 📝 **Blog:** [msicc.net](https://msicc.net)  
-- 🐘 **Mastodon:** [@msicc@techhub.social](https://techhub.social/@msicc)  
-- 🌌 **Bluesky:** [msicc.net](https://bsky.app/profile/msicc.net)  
-- 💼 **LinkedIn:** [Marco Siccardi](https://www.linkedin.com/in/msicc/)  
+- Blog → https://msicc.net
+- Portfolio → https://msiccdev.net
+- Mastodon → https://techhub.social/@msicc  
+- Bluesky → https://bsky.app/profile/msicc.net  
+- LinkedIn → https://www.linkedin.com/in/msicc/
