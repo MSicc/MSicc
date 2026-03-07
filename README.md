@@ -209,9 +209,15 @@ I enjoy turning small personal ideas into **well‑engineered software projects*
 
 # 📊 GitHub Stats
 
-![MSicc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSicc&show_icons=true&theme=transparent)  
-![MSiccDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MSiccDev&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSicc&layout=compact&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=msicc&theme=transparent&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=msicc&theme=github-compact)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msicc&theme=transparent)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msicc&theme=transparent)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msicc&theme=transparent)
 
 ---
 
