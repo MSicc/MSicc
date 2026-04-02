@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 Marco Siccardi  
-**Software Engineer • .NET & Swift Developer • Architecture & AI Enthusiast**
+**Software Architect • .NET & Swift Developer • AI Enthusiast**
 
 Blogger at **[msicc.net](https://msicc.net)**
 
@@ -19,7 +19,7 @@ Blogger at **[msicc.net](https://msicc.net)**
 
 # 🙋 About Me
 
-Hi, I’m **Marco Siccardi**, a software engineer with more than a decade of experience in the **.NET ecosystem**.
+Hi, I’m **Marco Siccardi**, a hands-on software architect and software engineer with more than a decade of experience in the **.NET ecosystem**.
 
 I focus on building **maintainable software systems**, combining clean architecture, testing, and modern tooling.
 
