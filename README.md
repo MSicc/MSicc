@@ -59,7 +59,7 @@ Tool to explore **Instagram archives** and repost historical content to the **Fe
 My very first app (originally for Windows Phone) — the project that started my programming journey.
 
 📖 Full portfolio →  
-https://msiccdev.net/#portfolio
+[https://msiccdev.net/](https://msiccdev.net/#projects)
 
 ---
 
@@ -198,10 +198,11 @@ Most of my projects start with **real‑life problems** — tools I want to use 
 
 Examples include:
 
+- cat care logging
 - tracking running performance
 - family meal planning
 - content aggregation
-- managing personal archives
+- managing personal social media archives
 
 I enjoy turning small personal ideas into **well‑engineered software projects**.
 
